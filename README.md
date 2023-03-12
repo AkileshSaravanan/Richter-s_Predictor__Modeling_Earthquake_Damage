@@ -1,0 +1,1 @@
+# Richter-s_Predictor__Modeling_Earthquake_Damage
