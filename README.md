@@ -1,5 +1,7 @@
 # IBM_CODE_WARS_(HACKATHAN),
+
 # Richter-s_Predictor__Modeling_Earthquake_Damage
+
 # AUTHOR = AKILESH S,
 
 The above listed codes and information are unique and it is open source to use.
